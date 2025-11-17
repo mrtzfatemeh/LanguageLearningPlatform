@@ -34,6 +34,7 @@
  docs/recuirements.md
  موارد کاربرد و سناریو ها
  docs/use_cases.md
+ docs/Usecase_diagram.mmd
  طراحی سیستم
  docs/architcture.md
 
