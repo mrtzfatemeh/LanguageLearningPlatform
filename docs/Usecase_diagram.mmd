@@ -1,0 +1,29 @@
+---
+config:
+  theme: neo
+---
+flowchart LR
+ subgraph Users["کاربران"]
+        n1[" "]
+        U["User (زبان‌آموز)"]
+        T["Teacher (مربی)"]
+        A["Admin (مدیر)"]
+  end
+ subgraph System["پلتفرم آموزش زبان"]
+        n2[" "]
+        UC1["ثبت‌نام و ورود"]
+        UC2["مشاهده درس‌ها"]
+        UC3["انجام تمرین‌های تعاملی"]
+        UC4["ارزیابی و تعیین سطح (Adaptive Learning)"]
+        UC5["دریافت بازخورد و نمره"]
+        UC6["گفت‌وگوی متنی با مربی"]
+        UC7["گفت‌وگوی صوتی با مربی"]
+        UC8["مدیریت درس‌ها و تمرین‌ها"]
+        UC9["مشاهده عملکرد کاربران"]
+  end
+    U --> UC1 & UC2 & UC3 & UC4 & UC5 & UC6 & UC7
+    T --> UC6 & UC7 & UC5
+    A --> UC8 & UC9
+    n1@{ icon: "aws:res-users", pos: "b"}
+    n2@{ icon: "azure:language", pos: "b"}
+    style n1 stroke:#BBDEFB
