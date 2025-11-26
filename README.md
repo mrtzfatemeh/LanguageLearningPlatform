@@ -28,21 +28,11 @@
 
 
  ## مستندات
- تحلیل نیازمندی ها
-
-[docs/requirements.md](docs/requirements.md)
-
- موارد کاربرد و سناریو ها
-
- [docs/use_cases.md](docs/use_cases.md)
-
- [docs/Usecase_diagram.mmd](docs/Usecase_diagram.mmd)
- 
- [docs/usecase_diagram.png](docs/usecase_diagram.png)
- 
- طراحی سیستم
- 
- [docs/architcture.md](docs/architcture.md)
+ | بخش | لینک‌ها |
+|------|---------|
+| تحلیل نیازمندی‌ها | [requirements.md](docs/requirements.md) |
+| موارد کاربرد و سناریوها | [use_cases.md](docs/use_cases.md)<br>[Usecase_diagram.mmd](docs/Usecase_diagram.mmd)<br>[usecase_diagram.png](docs/usecase_diagram.png) |
+| طراحی سیستم | [architcture.md](docs/architcture.md) |
 
 
  ## برنامه زمان‌بندی اولیه
