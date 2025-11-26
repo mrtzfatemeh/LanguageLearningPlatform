@@ -30,17 +30,16 @@
  ## مستندات
  تحلیل نیازمندی ها
 
- docs/recuirements.md
-
+[docs/recuirements.md](docs/recuirements.md)
  موارد کاربرد و سناریو ها
 
- docs/use_cases.md
+ [docs/use_cases.md](docs/use_cases.md)
 
- docs/Usecase_diagram.mmd
+ [docs/Usecase_diagram.mmd](docs/Usecase_diagram.mmd)
 
  طراحی سیستم
  
- docs/architcture.md
+ [docs/architcture.md](docs/architcture.md)
 
 
  ## برنامه زمان‌بندی اولیه
