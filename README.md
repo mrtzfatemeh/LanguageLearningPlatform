@@ -30,7 +30,7 @@
  ## مستندات
  تحلیل نیازمندی ها
 
-[docs/recuirements.md](docs/recuirements.md)
+[docs/requirements.md](docs/requirements.md)
 
  موارد کاربرد و سناریو ها
 
