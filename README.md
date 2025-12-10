@@ -31,8 +31,9 @@
  | بخش | لینک‌ها |
 |------|---------|
 | تحلیل نیازمندی‌ها | [requirements.md](docs/requirements.md) |
-| موارد کاربرد و سناریوها | [use_cases.md](docs/use_cases.md)<br>[Usecase_diagram.mmd](docs/Usecase_diagram.mmd)<br>[usecase_diagram.png](docs/usecase_diagram.png)<br>[usecase_diagram_figma](docs/usecase_diagram_figma.png) |
+| موارد کاربرد و سناریوها | [use_cases.md](docs/use_cases.md)<br>[Usecase_diagram.mmd](docs/Usecase_diagram.mmd) |
 | طراحی سیستم | [architcture.md](docs/architcture.md) |
+|
 
 
  ## برنامه زمان‌بندی اولیه
